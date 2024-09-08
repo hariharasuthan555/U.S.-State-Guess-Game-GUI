@@ -19,30 +19,9 @@ To run the US States Guessing Game, follow these steps:
 - PyCharm (or any Python IDE)
 - Required libraries: `pandas`, `turtle`
 
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/us-states-guessing-game.git
-   cd us-states-guessing-game
-   ```
-
-2. **Install Required Libraries:**
-
-   You can install the necessary Python libraries using pip. Open a terminal and run:
-
-   ```bash
-   pip install pandas
-   ```
-
-3. **Run the Game:**
+   ### Run the Game:
 
    Open the project in PyCharm or your preferred Python IDE. Locate the `main.py` file and run it. This will start the game, and you should see the interactive map and input box.
-
-   ```bash
-   python main.py
-   ```
 
 ## How to Play
 
