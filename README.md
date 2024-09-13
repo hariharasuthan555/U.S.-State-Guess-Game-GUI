@@ -1,54 +1,46 @@
-# US States Guessing Game
+# US States Learning App
 
-Welcome to the US States Guessing Game! This interactive learning game helps children learn and remember US states in a fun and engaging way. The game challenges users to guess US states by typing them into an input box. Correct guesses will be highlighted on a US map, while incorrect or missed guesses will be tracked and reported in a CSV file for further learning.
+Welcome to the US States Learning App! This interactive educational application is designed to help children learn and recognize US states through a fun and engaging interface. Users can enter the name of a US state, and if it's correct, it will be displayed on a map of the United States.
 
 ## Features
 
-- **Interactive Learning**: Users guess US states, which are then highlighted on a map.
-- **Feedback Mechanism**: At the end of the game, a CSV file is generated listing any states that were missed.
-- **Engaging UI**: The game uses Turtle graphics to display the map and handle user interaction.
-- **Educational Tool**: Designed to help children learn US states in an enjoyable way.
+- **Interactive Learning**: Type in the name of a US state to see it appear on the map.
+- **Educational**: Helps children learn and memorize US states in a visually appealing way.
+- **User-Friendly**: Simple and intuitive graphical user interface (GUI) suitable for children.
 
-## Getting Started
+## Installation
 
-To run the US States Guessing Game, follow these steps:
+To install the US States Learning App on your Windows OS, follow these steps:
 
-### Prerequisites
+1. **Download**: Obtain the installer from the [releases page](URL_TO_RELEASES_PAGE).
+2. **Run Installer**: Double-click on `US_States_Installer.exe` to launch the installation process.
+3. **Follow Instructions**: Follow the on-screen prompts to complete the installation.
 
-- Python 3.x
-- PyCharm (or any Python IDE)
-- Required libraries: `pandas`, `turtle`
+## Usage
 
-   ### Run the Game:
+1. Launch the application from the Start Menu or Desktop shortcut.
+2. Enter the name of a US state in the input field.
+3. If the state name is correct, it will appear on the map.
+4. Continue entering state names to see them placed on the map and reinforce learning.
 
-   Open the project in PyCharm or your preferred Python IDE. Locate the `main.py` file and run it. This will start the game, and you should see the interactive map and input box.
+## System Requirements
 
-## How to Play
-
-1. **Start the Game:**
-   - Run `main.py` to start the game.
-
-2. **Guess the States:**
-   - Type the name of a US state into the input box and press Enter.
-   - If the guess is correct, the state will be highlighted on the map.
-   - If the guess is incorrect, it will not be highlighted.
-
-3. **End of the Game:**
-   - At the end of the game, a CSV file will be generated containing the names of any states that were not guessed correctly.
-
-## Libraries Used
-
-- **Turtle**: Used for displaying the US map and handling UI design.
-- **Pandas**: Used for generating and managing the CSV file with missing states.
+- **Operating System**: Windows 7 or later
+- **RAM**: Minimum 2 GB
+- **Storage**: Minimum 50 MB of free disk space
 
 ## Contributing
 
-Feel free to contribute to the project! If you have suggestions for improvements or want to add new features, please fork the repository and create a pull request. 
+Contributions are welcome! If you would like to contribute to the development of the US States Learning App, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and push to your forked repository.
+4. Open a pull request describing your changes.
+
+Please ensure that your code follows the project's coding standards and includes appropriate tests.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
----
-
-Enjoy learning and have fun with the US States Guessing Game!
