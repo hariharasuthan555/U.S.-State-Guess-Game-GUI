@@ -12,7 +12,7 @@ Welcome to the US States Learning App! This interactive educational application 
 
 To install the US States Learning App on your Windows OS, follow these steps:
 
-1. **Download**: Obtain the installer from the [releases page](URL_TO_RELEASES_PAGE).
+1. **Download**: Download the 'US_States_Installer.exe' from the [releases page]([https://github.com/hariravendran/U.S.-State-Guess-Game-GUI/edit/main/README.md]).
 2. **Run Installer**: Double-click on `US_States_Installer.exe` to launch the installation process.
 3. **Follow Instructions**: Follow the on-screen prompts to complete the installation.
 
